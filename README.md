@@ -13,4 +13,4 @@ I dabble in dev and do some competitive programming in my spare time. My passion
 - **LinkedIn:** https://www.linkedin.com/in/dinesh-dumka/
 - **LeetCode:** https://leetcode.com/u/DinAce/
 
-Thanks for visiting my profile! If something here interests you, feel free to reach out — I love meeting builders and discussing ideas.
+Thanks for visiting my profile! If something here interests you, feel free to reach out. I love meeting builders and discussing ideas.
